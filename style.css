@@ -1,0 +1,25 @@
+body {
+	margin: 0;
+	font-family: Helvetica;
+}
+
+.header {
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+	background: black;
+	color: white;
+}
+
+.letter {
+    margin: 0;
+    text-align: center;
+}
+
+.footer {
+	padding: 20px;
+	clear: both;
+	text-align: center;
+	background: black;
+	color: white;
+}
